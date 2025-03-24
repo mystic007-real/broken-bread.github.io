@@ -1,3 +1,11 @@
+THIS IS NOT MINE!!!!!
+this is simply a copy so you can play minecraft on your school chromebook if this is blocked
+
+
+
+
+
+
 # EaglerCraftX
 EaglerCraft Client Collections  
 **Pull Requests will not be checked on Github, only Gitea.**  
